@@ -1,2 +1,2 @@
 # 2DPoker
-2-dimensional poker game in HTML+css+javascript
+2-dimensional poker game in HTML+css+javascript(jquery)
